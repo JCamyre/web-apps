@@ -1,0 +1,15 @@
+FIRST START OFF WITH THE MUTHAFUTHA: git clone 'copy link from git hub'
+Then do a: git status
+Then do a: git add 'name of file(s). For multiple files just have a space between them'
+Then do a: git commit -m 'PUT SOME MESSAGE HERE'
+Then do a: git push
+
+If something terrible goes wrong, just do a: rm -rf .git. If it doesn't work, try it in Desktop, or even the base directory
+
+Do a couple of commits everyday, some many different things you can add. 
+
+Pull: Getting an remote changes from a repository, must do before pushing if there are any updates to the repo. 
+Push: Adding your local changes to the remote repo. 
+
+So I guess a pull request is when you request others to look at your changes before they decide to pull your local changes. 
+Just do git pull everytime you want to push something

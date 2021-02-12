@@ -1,0 +1,19 @@
+Use Django corey schafer
+Make it a portfolio thing with links and pics to github links with all my cool projects
+Add a stocks section: display pre market movers, be able to look at charts, have a watchlist that actually does stuff (be able to input price targets, alert if a stock has changed significantly in the past five minutes)
+Just add python-trading method
+SEARCH FOR PENNY STOCKS THAT WERE UP A LOT NOW DOWN, OR WHAT ABOUT WEBULL TOP LOSERS OF DAY
+
+
+
+Do the ML program that can detect reps and half reps
+Other webcam ideas: Trombone slide positions, Guitar notes/chords, tennis swing (gl with this one), 
+Trombone guitar hero: tells you which position to play and you play it. Who cares about actual note, just position for now. Or could just do mic detects which note. 
+I still want to do algorthmic trading
+Watch kpop synchronisation video for skeletal mapping ML 
+
+
+
+For my actual portfolio site: no need for users, focus on graphics/UI, get some cool BootStrap templates (for portfolio specifically?)
+
+Update my Howtobecomeaprogrammer
